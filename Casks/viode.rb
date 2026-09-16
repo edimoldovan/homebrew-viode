@@ -8,7 +8,7 @@
 # only.
 cask "viode" do
   version "0.1.0"
-  sha256 "a325fa10ab9cfae29a45121351076219929e98d9730395a93b5a1b8ae9366b91"
+  sha256 "72d1131cbe02aca99ef4b46a6dff3198fbeb7fce8c1b668045ad82d384713657"
 
   url "https://github.com/edimoldovan/viode-releases/releases/download/v#{version}/Viode-#{version}.dmg"
   name "Viode"
