@@ -7,8 +7,8 @@
 # source-building formula in packaging/homebrew/ remains a CI gate
 # only.
 cask "viode" do
-  version "0.1.1"
-  sha256 "ef7741aff753ffb71832bcfea41fbdda5ca0675376125a96e3506bad01b2a17c"
+  version "0.1.2"
+  sha256 "5e63874ed7562184de81aaabb3d3d2bfa8ab5c4c89531b00e43a88af83bcb3ad"
 
   url "https://github.com/edimoldovan/viode-releases/releases/download/v#{version}/Viode-#{version}.dmg"
   name "Viode"
